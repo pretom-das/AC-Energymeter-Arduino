@@ -18,10 +18,10 @@ Describe key features, technologies used, and any important details you'd like t
 ## Screenshots
 Here are some screenshots of the project:
 
-![Image Alt Text](Screenshots/Screenshot 2024-09-26 103853.png)
+![Image Alt Text](https://github.com/pretom-das/AC-Energymeter-Arduino/blob/47ddea7222e5dcbb5b7908f3a6c3d7109d3d6b1a/Screenshots/Screenshot%202024-09-26%20103853.png)
 *Screenshot 1 Proteus simulation*
 
-![Image Alt Text](Screenshots/Screenshot 2024-09-26 142818.png)
+![Image Alt Text](https://github.com/pretom-das/AC-Energymeter-Arduino/blob/8f15d344bea937a4330c71afc4a499ae008bacf9/Screenshots/Screenshot%202024-09-26%20142818.png)
 *Screenshot 2 Acurracy curve*
 
 ## Installation
