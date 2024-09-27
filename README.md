@@ -5,7 +5,7 @@ Provide a brief overview of your project, its goals, and what it does.
 Describe key features, technologies used, and any important details you'd like to share about your project.
 
 ## Project Details
-- **Technology Stack**: List the main technologies or languages used.
+- **Technology Stack**: preoteus , arduino , hall effect , C , python.
 - **Version**: 1.0.0
 - **License**: MIT License
 - **Author**: [Pretom Das](https://github.com/pretom-das)
@@ -18,13 +18,13 @@ Describe key features, technologies used, and any important details you'd like t
 ## Screenshots
 Here are some screenshots of the project:
 
-![Image Alt Text](path_to_image1.png)
-*Screenshot 1 Description*
+![Image Alt Text](Screenshots/Screenshot 2024-09-26 103853.png)
+*Screenshot 1 Proteus simulation*
 
-![Image Alt Text](path_to_image2.png)
-*Screenshot 2 Description*
+![Image Alt Text](Screenshots/Screenshot 2024-09-26 142818.png)
+*Screenshot 2 Acurracy curve*
 
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/pretom-das/AC-Energymeter-Arduino/
